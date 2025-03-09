@@ -1,1 +1,2 @@
 print("hello")
+print("hello in day 2")
